@@ -44,3 +44,5 @@ Upgrade the build tools and install this project:
 pip install --upgrade pip setuptools wheel
 pip install -e .[dev,docs]
 ```
+
+[![Python Versions](https://github.com/astrojaket/ci_course_start/actions/workflows/python_versions.yml/badge.svg)](https://github.com/astrojaket/ci_course_start/actions/workflows/python_versions.yml)
